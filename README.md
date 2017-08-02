@@ -2,4 +2,4 @@
   ESTILO FORM
 ###############
 
-ESTILO FORM é uma simples estilização de formulario incluindo dropbox, radio e checkbox.
+ESTILO FORM é uma simples estilização de formulario incluindo combobox, radio e checkbox.
